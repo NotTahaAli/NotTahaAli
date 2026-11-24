@@ -18,7 +18,7 @@ I'm Taha. I see how it breaks first, then I build the version that doesn't. Six 
 </p>
 <p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-aquablox-dark.svg"><img alt="AquaBlox, private client build, shipped in 14 working days" src="./assets/card-aquablox-light.svg" width="49%"></picture>
-  <a href="https://github.com/NotTahaAli/NASM-Tools"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-nasm-tools-dark.svg"><img alt="NASM Tools, 6,930 installs" src="./assets/card-nasm-tools-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/NotTahaAli/NASM-Tools"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-nasm-tools-dark.svg"><img alt="NASM Tools, 7,176 installs" src="./assets/card-nasm-tools-light.svg" width="49%"></picture></a>
 </p>
 <p>
   <a href="https://github.com/NotTahaAli/sessclone"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-sessclone-dark.svg"><img alt="SessClone, Claude Code usage and cost for teams" src="./assets/card-sessclone-light.svg" width="49%"></picture></a>
